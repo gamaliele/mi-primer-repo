@@ -14,6 +14,8 @@ public class Cafetera {
     private int capacidadMaxima;
     private int capacidadActual;
     private int capacidadNula;
+    private int comminttres;
+    
 
     public Cafetera() {
     }
